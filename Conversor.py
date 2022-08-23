@@ -1,4 +1,4 @@
-h = str(input('Digite um número de qualquer base: ')).upper()
+h = str(input('Digite um número Decimal ou Hexadecimal: ')).upper()
 nc = n = total = dividendo = resto = quociente = 0
 convertido = list()
 r = list()
